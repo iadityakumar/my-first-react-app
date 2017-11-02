@@ -68,7 +68,7 @@ class App extends Component {
                 },
                 {
                     id: 4,
-                    text: "What is the words population in March 2016?",
+                    text: "What is the worlds population in March 2016?",
                     choices: [
                         {
                             id: 'a',

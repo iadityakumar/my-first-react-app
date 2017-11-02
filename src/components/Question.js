@@ -4,7 +4,6 @@ import './Question.css';
 class Question extends Component {
     
     onChange(e){
-        e.preventDefault();
         this.setState({selected_option: e.target.value})
     }
     
